@@ -1,4 +1,4 @@
-package main.java.com.quantity.measurement.model;
+package com.quantity.measurement.model;
 
 import com.quantity.measurement.enums.IMeasurable;
 import java.util.Objects;
